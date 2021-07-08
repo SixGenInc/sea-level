@@ -5,7 +5,7 @@ SEA Level leverages various open-source tools. We want to credit these exception
 
 - [WAZUH](https://github.com/wazuh/wazuh/blob/master/LICENSE)
 - [Osquery](https://github.com/osquery/osquery/blob/master/LICENSE)
-- [Fleet] (https://github.com/fleetdm/fleet/blob/master/LICENSE)
+- [Fleet](https://github.com/fleetdm/fleet/blob/master/LICENSE)
 - [Santa](https://github.com/google/santa/blob/main/LICENSE)
 - [Sysmon](https://docs.microsoft.com/en-us/sysinternals/license-terms)
 - [Privileges](https://github.com/SAP/macOS-enterprise-privileges/blob/master/LICENSE)
